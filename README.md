@@ -23,14 +23,8 @@ Cada projeto aqui representa uma etapa da minha evolução como desenvolvedor fr
 ## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Link |
-|----------|------------|------|
-| 🪶 **Cordel Moderno** | Poesia interativa com efeito Parallax e visual minimalista. | [Abrir projeto](https://teu-usuario.github.io/cordel-moderno) |
-| 🌅 **Site de Treino** | Página experimental com responsividade e comentários educativos. | [Abrir projeto](https://teu-usuario.github.io/site-de-treino) |
 | 💊 **Farmácia Jayane** | Sistema simulado de farmácia com painel de administração. | [Abrir projeto](https://teu-usuario.github.io/farmacia-jayane) |
 
-> *(Adicione ou atualize os links conforme for criando novos projetos.)*
-
----
 
 ## 🧠 Objetivo
 
