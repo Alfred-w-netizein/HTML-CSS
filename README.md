@@ -26,17 +26,6 @@ Cada projeto aqui representa uma etapa da minha evolução como desenvolvedor fr
 | 💊 **Farmácia Jayane** | Sistema simulado de farmácia com painel de administração. | [Abrir projeto](https://teu-usuario.github.io/farmacia-jayane) |
 
 
-## 🧠 Objetivo
 
-> "O código é minha forma de arte — cada linha é um traço do que aprendi."
 
-Este repositório mostra **minha jornada de aprendizado e criatividade**,  
-explorando como o design e a tecnologia podem se unir pra contar histórias visuais.
-
----
-
-## 🔧 Como usar
-
-1. Baixe o repositório:
-   ```bash
-   git clone https://github.com/teu-usuario/html-css
+https://www.canva.com/design/DAG4bxuxXaQ/5UoZ0khiZ9UAFlYy-Ts5bg/edit?utm_content=DAG4bxuxXaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
